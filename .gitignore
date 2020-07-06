@@ -10,6 +10,8 @@
 
 # production
 /build
+create.txt
+src/data.js
 
 # misc
 .DS_Store
